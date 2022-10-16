@@ -2,7 +2,8 @@
 #include "stdlib.h"
 #include "time.h"
 /**
- * Main - Entry Level
+ * main - Entry Level
+ *
  * Return: Always 0
  */
 int main(void)

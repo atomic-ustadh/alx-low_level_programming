@@ -4,7 +4,7 @@
 /**
  * main - Entry level
  *
- * Return - always 0
+ * Return: Always 0
  */
 int main(void)
 {
